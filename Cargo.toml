@@ -1,0 +1,6 @@
+[package]
+name = "guessing"
+version = "0.1.0"
+authors = ["Willem Mali <willem.mali@gmail.com>"]
+
+[dependencies]
